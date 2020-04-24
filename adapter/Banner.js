@@ -13,4 +13,3 @@ var Banner = /** @class */ (function () {
     return Banner;
 }());
 exports.Banner = Banner;
-//# sourceMappingURL=Banner.js.map

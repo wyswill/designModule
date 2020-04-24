@@ -6,4 +6,3 @@ var PrintBanner2_1 = require("./PrintBanner2");
 var printBanner = new PrintBanner2_1.PrintBanner2('hello2');
 printBanner.printWeak();
 printBanner.printStrong();
-//# sourceMappingURL=main.js.map

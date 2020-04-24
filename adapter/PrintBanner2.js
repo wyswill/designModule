@@ -17,4 +17,3 @@ var PrintBanner2 = /** @class */ (function () {
     return PrintBanner2;
 }());
 exports.PrintBanner2 = PrintBanner2;
-//# sourceMappingURL=PrintBanner2.js.map
