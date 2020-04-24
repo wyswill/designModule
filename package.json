@@ -1,0 +1,7 @@
+{
+  "name": "desingModule",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node ./Iterator/main.ts"
+  }
+}
