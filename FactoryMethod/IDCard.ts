@@ -2,6 +2,7 @@ import {Product} from "./Product";
 
 export class IDCard extends Product {
   private owner: string;
+  private idNum: string | number
 
   constructor(owner: string) {
     super();
