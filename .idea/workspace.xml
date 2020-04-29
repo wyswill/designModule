@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c54e022f-6fe8-4eb5-b0ea-86a344750844" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/Factory.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/Factory.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/IDCard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/IDCard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/Banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/Banner.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/PrintBanner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/PrintBanner.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/PrintBanner2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/PrintBanner2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/interfaces.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/interfaces.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/wyswill/fitting2020.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ayQjxRfXHTq3GjUUly4x92ZJiL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
+    <property name="javascript.karma.karma_node_package_dir" value="" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="TypeScriptProgramRunner" factoryName="TypeScript" singleton="false">
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="" />
+      <option name="programParameters" value="" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" singleton="false">
+      <module name="desingModule" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="D:\project\desingModule\FactoryMethod" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/FactoryMethod/main.ts" />
+      <option name="programParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c54e022f-6fe8-4eb5-b0ea-86a344750844" name="默认更改列表" comment="" />
+      <created>1587705492310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587705492310</updated>
+      <workItem from="1587705493707" duration="924000" />
+      <workItem from="1587862071568" duration="3716000" />
+      <workItem from="1587883258610" duration="7000" />
+      <workItem from="1588134901970" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/adapter/PrintBanner2.js.map" />
+        <option value="$PROJECT_DIR$/adapter/PrintBanner2.js" />
+        <option value="$PROJECT_DIR$/adapter/Banner.js.map" />
+        <option value="$PROJECT_DIR$/adapter/Banner.js" />
+        <option value="$PROJECT_DIR$/adapter/PrintBanner.js.map" />
+        <option value="$PROJECT_DIR$/adapter/PrintBanner.js" />
+        <option value="$PROJECT_DIR$/adapter/interfaces.js.map" />
+        <option value="$PROJECT_DIR$/adapter/interfaces.js" />
+        <option value="$PROJECT_DIR$/adapter/main.js.map" />
+        <option value="$PROJECT_DIR$/adapter/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="184" width="1261" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587863429558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="445" y="184" width="1261" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587863429558" />
+    <state x="974" y="279" width="498" height="500" key="EnvironmentVariablesDialog" timestamp="1587863285184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="974" y="279" width="498" height="500" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587863285184" />
+    <state width="916" height="279" key="GridCell.Tab.0.bottom" timestamp="1587880716399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587880716399" />
+    <state width="916" height="279" key="GridCell.Tab.0.center" timestamp="1587880716399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587880716399" />
+    <state width="916" height="279" key="GridCell.Tab.0.left" timestamp="1587880716399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587880716399" />
+    <state width="916" height="279" key="GridCell.Tab.0.right" timestamp="1587880716399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587880716399" />
+    <state x="922" y="164" key="SettingsEditor" timestamp="1587705978800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587705978800" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1587705710178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587705710178" />
+  </component>
+</project>
