@@ -6,6 +6,6 @@ export default class Random {
   }
 
   nextInt(num: number): number {
-    return Math.floor(Math.random() * num - num);
+    return Math.floor((Math.random() * 10));
   }
 }
