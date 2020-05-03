@@ -3,10 +3,23 @@ import Entry from "./Entry";
 export default class Directory extends Entry {
   private readonly name: string;
   private readonly directory: Array<Entry> = [];
+  private parent: Entry;
 
   constructor(name: string) {
     super();
     this.name = name;
+  }
+
+  setParent(parent: Entry) {
+    this.parent = parent;
+  }
+
+  getParent(): Entry {
+    return this.parent;
+  }
+
+  hasParent(): boolean {
+    return this.parent ? true : false;
   }
 
   getName(): string {
@@ -20,6 +33,7 @@ export default class Directory extends Entry {
   }
 
   add(entity: Entry) {
+    entity.setParent(this);
     this.directory.push(entity);
     return this;
   }
@@ -29,6 +43,10 @@ export default class Directory extends Entry {
     this.directory.map((ele) => {
       ele.printList(`${prefix}/${this.name}`);
     });
+  }
+
+  getFullPath(): string {
+    return super.getFullPath(this);
   }
 
 }
