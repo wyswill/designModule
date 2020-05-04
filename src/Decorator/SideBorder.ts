@@ -2,7 +2,7 @@ import Border from "./Border";
 import Display from "./Display";
 
 export default class SideBorder extends Border {
-  private borderChar: string;
+  private readonly borderChar: string;
 
   constructor(display: Display, ch: string) {
     super(display);

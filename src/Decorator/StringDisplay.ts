@@ -6,7 +6,7 @@ export default class StringDisplay extends Display {
     this.string = string;
   }
 
-  private string: string;
+  private readonly string: string;
 
   getColumns(): number {
     return this.string.length;

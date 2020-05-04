@@ -21,7 +21,6 @@ export default class FullBorder extends Border {
   }
 
   makeLine(ch: string, count: number): string {
-    let buf: string = "";
-    return buf.padEnd(count, ch);
+    return "".padEnd(count, ch);
   }
 }
